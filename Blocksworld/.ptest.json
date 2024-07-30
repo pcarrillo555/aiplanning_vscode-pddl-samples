@@ -30,6 +30,13 @@
                 "kind": "jinja2",
                 "data": "p2.json"
             }
+        },
+        {
+            "label": "[D][C][BA] -> [DBCA]",
+            "preProcess": {
+                "kind": "nunjucks",
+                "data": "p3.json"
+            }
         }
     ]
 }
